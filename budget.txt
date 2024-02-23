@@ -1,0 +1,23 @@
+1. dashboard
+   - navbar : 8k
+   - papan iklan : FREE
+   - pilihan game : 18k (6 x 3k)
+   - tentang : 6k
+   - footer : 5k
+dashboard : 37k
+
+2. payment page
+   - FREE navbar + footer
+   - menu diamond 24k (8 x 3k)
+   - menu metode 9k (6 x 1,5k)
+   - form pembelian 18k
+pembelian : 51k
+total pembelian : 153k (3(asline 6 tapi sg dibayar 3 bae rapapa) x 51k)
+
+3. jasa
+   -instal laravel : FREE
+   -tenaga, begadang(ngantuk coy) : 20k
+
+total semua : 37k + 153k + 20k = 220k
+
+FREE 1x revisi.
